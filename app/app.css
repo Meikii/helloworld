@@ -1,0 +1,32 @@
+@import '~@nativescript/theme/css/core.css';
+@import '~@nativescript/theme/css/default.css';
+* {
+    font-family: "IRANSans(FaNum)";
+    font-size: 20;
+    direction: rtl;
+}
+
+.fab {
+    font-family: 'fa-brands-400';
+    font-weight: 400;
+}
+
+.far {
+    font-family: 'Font Awesome 5 Pro', 'fa-regular-400';
+    font-weight: 400;
+}
+
+.fas {
+    font-family: 'Font Awesome 5 Pro', 'fa-solid-900';
+    font-weight: 900;
+}
+
+.fal {
+    font-family: 'Font Awesome 5 Pro', 'fa-light-300';
+    font-weight: 300;
+}
+
+.fad {
+    font-family: 'Font Awesome 5 Pro', 'fa-duotone-900';
+    font-weight: 900;
+}
